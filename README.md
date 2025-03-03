@@ -8,6 +8,11 @@ A simple and efficient calculator built with JavaScript. This project allows use
 - Responsive and user-friendly design
 - Lightweight and fast performance
 
+## 📷 Screenshot
+
+![Calculator Screenshot](style/img/screenshot.png)
+
+
 ## 🛠️ Technologies Used
 
 - HTML
