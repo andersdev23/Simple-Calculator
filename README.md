@@ -19,4 +19,3 @@ A simple and efficient calculator built with JavaScript. This project allows use
 - CSS
 - JavaScript
 
-##
